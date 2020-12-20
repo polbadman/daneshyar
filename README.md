@@ -1,6 +1,8 @@
+<div dir="rtl">
 # پروژه دانشیار
 
 برای نصب ابتدا از مخزن کلون بگرین :
+
 $ git clone https://github.com/polbadman/daneshyar.git
 
 وسپس با دستور:
@@ -36,3 +38,4 @@ npm start
 npm install
 
 استفاده بفرمایید.
+</div>
