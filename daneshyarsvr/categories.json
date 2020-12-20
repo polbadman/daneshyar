@@ -1,0 +1,35 @@
+{ 
+    "_id" : ObjectId("5fc074c7a3b5320faca6491a"), 
+    "name" : "NODEJS", 
+    "createdAt" : ISODate("2020-11-27T03:38:47.765+0000"), 
+    "updatedAt" : ISODate("2020-12-01T04:22:54.542+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5fc5ad21307e8a07e0f1206f"), 
+    "name" : "PHP", 
+    "createdAt" : ISODate("2020-12-01T02:40:33.168+0000"), 
+    "updatedAt" : ISODate("2020-12-01T02:40:33.168+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5fc5ae27307e8a07e0f12072"), 
+    "name" : "Python", 
+    "createdAt" : ISODate("2020-12-01T02:44:55.689+0000"), 
+    "updatedAt" : ISODate("2020-12-01T04:22:30.088+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5fc5aff3307e8a07e0f12076"), 
+    "name" : "React", 
+    "createdAt" : ISODate("2020-12-01T02:52:35.706+0000"), 
+    "updatedAt" : ISODate("2020-12-01T02:52:35.706+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5fc721a9691fa61dd0854cd3"), 
+    "name" : "شبیبس", 
+    "createdAt" : ISODate("2020-12-02T05:10:02.011+0000"), 
+    "updatedAt" : ISODate("2020-12-02T05:10:02.011+0000"), 
+    "__v" : NumberInt(0)
+}
