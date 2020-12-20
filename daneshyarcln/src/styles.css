@@ -89,7 +89,7 @@ body{
     padding: 10px;
     position: relative;
     color: #fff;
-    background: linear-gradient(-45deg, #23b0cc, #23bfcc, white, #23b0cc);
+    background: linear-gradient(-45deg, #000000, #313131, white, #a9adad);
     background-size: 400% 400%;
     animation: Gradient 15s ease infinite;
     display: block;

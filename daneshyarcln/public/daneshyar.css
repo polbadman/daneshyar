@@ -8,3 +8,22 @@
 	float: right;
 	margin: 10px;
 }
+.bg-primary {
+	background-color: #313131 !important;
+}
+.nav-tabs {
+	border-bottom: none;
+}
+.card-header {
+	padding: .75rem 1.25rem;
+	margin-bottom: 0;
+	color: white;
+	background-color: black;
+	border-bottom: 1px solid rgba(234, 2, 2, 0.13);
+}
+.card-body {
+	-ms-flex: 1 1 auto;
+	flex: 1 1 auto;
+	padding: 1.25rem;
+	border: 1px solid;
+}
