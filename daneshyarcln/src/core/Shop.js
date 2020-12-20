@@ -97,13 +97,13 @@ const Shop = () => {
 
     return (
         <Layout
-            title="فروشگاه حسینی"
-            description="کالای مورد نظر را جستجو و انتخاب کنید"
+            title="فروشگاه سامانه"
+            description="کالای یا خدمات مورد نظر را جستجو و انتخاب کنید"
             className="container-fluid"
         >
             <div className="row">
                 <div className="col-4">
-                    <h4>فیلتر با گروه کالا</h4>
+                    <h4>فیلتر با گروه کالا/خدمات</h4>
                     <ul>
                         <Checkbox
                             categories={categories}
