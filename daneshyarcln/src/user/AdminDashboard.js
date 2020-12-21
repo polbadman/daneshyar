@@ -1,8 +1,10 @@
 import React from "react";
 import Layout from "../core/Layout";
+// import Avatar from "../core/Avatar";
 import { isAuthenticated } from "../auth";
 import { Link } from "react-router-dom";
-import moment from 'jalali-moment'
+import moment from 'jalali-moment';
+import { Divider } from 'antd';
 
 const AdminDashboard = () => {
     const {
@@ -54,6 +56,7 @@ const AdminDashboard = () => {
             <div className="card mb-5">
                 <h3 className="card-header">اطلاعات کاربری</h3>
                 <ul className="list-group">
+                   <Divider>مشخصات کاربری</Divider>
                     <li className="list-group-item">نام: {name}</li>
                     <li className="list-group-item">رایانامه: {email}</li>
                     <li className="list-group-item">
