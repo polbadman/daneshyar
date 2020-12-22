@@ -47,4 +47,11 @@ npm start
 npm install
 
 استفاده بفرمایید.
+
+# گزارشات و درخواست ها
+
+لطفا برای گزارش باگ ها و درخواست، افزودن امکانات جدید ازاین جا استفاده بفرمایید
+
+(https://github.com/polbadman/daneshyar/issues/1)
+
 </div>
