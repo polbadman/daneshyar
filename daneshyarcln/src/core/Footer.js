@@ -13,7 +13,7 @@ const isActive = (history, path) => {
 
 const Footer = ({ history }) => (
    <div className="jumbotron-footer">
-   <h5>تمام حقوق برای  سامانه جامع  دانشیار محفوظ است. </h5>
+   <h5>هشدار:این سامانه بصورت آزمایشی می باشد و هیچ گونه خدمات رسمی و مالی ارایه نمی دهد. </h5>
     </div>
 );
 
